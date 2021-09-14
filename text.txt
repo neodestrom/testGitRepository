@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 
 
 这里是master分支的内容
+=======
+zehbianshi fenfenzhis
+>>>>>>> abranch
